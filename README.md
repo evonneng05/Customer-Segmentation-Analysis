@@ -8,8 +8,8 @@ Dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/imakash3011/cu
 
 ## Problem Motivation
 * Supermarkets attract a diverse range of customers with differing preferences and needs. Effective advertising required a tailored approach towards targeting the needs and wants of each customer.
-* Our chosen problem statement: How can supermarkets leverage machine learning to identify customer segments based on customer attributes.
-* With many different Clustering algorithms available, we wanted to identify the most optimal model that can segment the supermarket's customers.
+* Our chosen problem statement: How can supermarkets leverage machine learning to identify customer segments based on customer attributes?
+* With many different Clustering algorithms available, how can we identify the most optimal model that can segment the supermarket's customers?
 
 ## Approach Taken
 1. Exploratory Data Analysis was performed to identify required preprocessing steps.
@@ -42,7 +42,7 @@ Graph-based Model
 ## Conclusions
 * Customers can be segmented into 4 clusters, eac with their own demographic traits: Income, Age, Number of Children, Education (specifically Third Cycle)
 * These clusters have differing spending behaviours: Receptivity to Campaigns, Compain Tendencies, Highest Expenditure Product Categories and Prefered Purchase Avenue
-* More details conclusions can be found in the notebook
+* More detailed conclusions can be found in the notebook
 
 ## Contributors
 1. [Ng Li Lin Evonne](https://github.com/evonneng05)
