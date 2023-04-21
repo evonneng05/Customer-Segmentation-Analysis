@@ -6,6 +6,8 @@
 
 A project submission to Nanyang Technological University for the course SC1015 (Introduction to Data Science & Artificial Intelligence).
 
+Video presentation link: https://youtu.be/k0Ayb1S2R-o
+
 Dataset is obtained from [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis), titled "Customer Personality Analysis".
 
 ## Problem Motivation
