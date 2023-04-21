@@ -42,14 +42,14 @@ Graph-based Model
  * Spectral Clustering
  
 ## Conclusions
-* K-Means Clustering yielded the best results overall
+* K-Means Clustering yielded the best results overall.
 * Customers can be segmented into 4 clusters, eac with their own demographic traits: Income, Age, Number of Children, Education (specifically Third Cycle).
 * These clusters have differing spending behaviours: Receptivity to Campaigns, Compain Tendencies, Highest Expenditure Product Categories and Prefered Purchase Avenue.
 * More detailed conclusions can be found in the notebook.
 
 <div class="row">
- <img src= "https://user-images.githubusercontent.com/77315991/233650044-d510901c-7e08-4443-a0d3-fceb117b8320.png" width= 500>
- <img src= "https://user-images.githubusercontent.com/77315991/233650071-feecfd37-26da-4428-933b-b2d9a37e3c20.png" width= 500>
+ <img src= "https://user-images.githubusercontent.com/77315991/233665316-75acad20-8a54-4aea-b234-a7f3a31639bc.png" width= 500>
+ <img src= "https://user-images.githubusercontent.com/77315991/233665339-225bfa34-bc8d-44c2-bd0b-2b33d757a84a.png" width= 500>
 <div>
 
 ## Contributors
